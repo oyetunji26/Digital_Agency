@@ -42,8 +42,8 @@ const Testimonial = () => {
     <>
       <div className='mt-20'>
           <p className='text-center text-xl bg-['>Testimonials</p>
-          <h1 className='text-4xl text-center font-bold'>Read What Other</h1>
-          <h1 className='text-4xl text-center font-bold'>Have To Say</h1>
+          <h1 className='text-3xl text-center font-bold'>Read What Other</h1>
+          <h1 className='text-3xl text-center font-bold'>Have To Say</h1>
       </div>
 
       <div className='mdd:grid grid-cols-3 mt-20 gap-3 justify-center'>
