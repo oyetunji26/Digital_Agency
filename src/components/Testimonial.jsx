@@ -1,4 +1,4 @@
-import { SectionWrapper } from '../hoc'
+hiimport { SectionWrapper } from '../hoc'
 import tes1 from '/tes1.png'
 import tes2 from '/tes2.png'
 import tes3 from '/tes3.png'
@@ -42,8 +42,8 @@ const Testimonial = () => {
     <>
       <div className='mt-20'>
           <p className='text-center text-xl bg-['>Testimonials</p>
-          <h1 className='text-5xl text-center font-bold'>Read What Other</h1>
-          <h1 className='text-5xl text-center font-bold'>Have To Say</h1>
+          <h1 className='text-4xl text-center font-bold'>Read What Other</h1>
+          <h1 className='text-4xl text-center font-bold'>Have To Say</h1>
       </div>
 
       <div className='mdd:grid grid-cols-3 mt-20 gap-3 justify-center'>
